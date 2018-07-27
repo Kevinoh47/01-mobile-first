@@ -34,6 +34,7 @@ nav ul {
   display: block;
 }
 
+/*When we are below minimum width, the nav list is hidden, but on hover, it displays. But now we want it to display as block not inline.*/
 nav ul li {
   /* display: inline; */ 
   display: block;

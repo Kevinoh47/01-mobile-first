@@ -108,21 +108,21 @@ address a {
 
 /* === LINK STYLES === */
 
-a, a:link, a:active {
+/* a, a:link, a:active {
   text-decoration: none;
   color: #777;
 }
 
 a:hover, a:focus {
   color: #29506D;
-}
+} */
 
 /* === ICON FONT === */
 
-.icon-menu {
+/* .icon-menu {
   font-size: 3em;
   float: right;
-}
+} */
 
 /* === FILTER STYLES === */
 

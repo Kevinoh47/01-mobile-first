@@ -9,6 +9,7 @@ select {
   margin: .2em 5%;
 }
 
+/*this makes the image totally responsive!*/
 img {
   max-width: 100%;
 }

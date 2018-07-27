@@ -35,10 +35,16 @@ nav ul {
 }
 
 nav ul li {
-  display: inline;
+  /* display: inline; */ 
+  display: block;
   border-bottom: none;
 }
 
 nav ul li:hover a {
   color: #29506D;
+}
+
+.icon-menu {
+  font-size: 3em;
+  float: right;
 }
